@@ -1,4 +1,4 @@
-et fs = require('fs');
+let fs = require('fs');
 let http = require('http');
 let https = require('https');
 let url = require('url');
